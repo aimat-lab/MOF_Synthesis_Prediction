@@ -1,0 +1,96 @@
+   ###   Libraries:
+   ---   Tensorflow:2.0.0-beta1
+   ---   Pytorch:1.4.0
+   ---   sklearn:0.23.1
+   ---   rdkit:2017.09.1
+start training
+   ---   Training and test data dimensions:
+(269, 341) (30, 341) (269, 1) (30, 1)
+   ---   Training and test data dimensions:
+I AM HEREEEEEEEEEEEE
+(269, 341) (30, 341) (269, 1) (30, 1)
+
+   ###   RandomForestRegressor:
+   ---   Training (r2, MAE): 0.747 14.190
+   ---   Testing (r2, MAE): 0.138 24.458
+   ---   Training and test data dimensions:
+(269, 341) (30, 341) (269, 1) (30, 1)
+   ---   Training and test data dimensions:
+I AM HEREEEEEEEEEEEE
+(269, 341) (30, 341) (269, 1) (30, 1)
+
+   ###   RandomForestRegressor:
+   ---   Training (r2, MAE): 0.727 14.638
+   ---   Testing (r2, MAE): 0.323 25.624
+   ---   Training and test data dimensions:
+(269, 341) (30, 341) (269, 1) (30, 1)
+   ---   Training and test data dimensions:
+I AM HEREEEEEEEEEEEE
+(269, 341) (30, 341) (269, 1) (30, 1)
+
+   ###   RandomForestRegressor:
+   ---   Training (r2, MAE): 0.762 13.546
+   ---   Testing (r2, MAE): -0.063 31.081
+   ---   Training and test data dimensions:
+(269, 341) (30, 341) (269, 1) (30, 1)
+   ---   Training and test data dimensions:
+I AM HEREEEEEEEEEEEE
+(269, 341) (30, 341) (269, 1) (30, 1)
+
+   ###   RandomForestRegressor:
+   ---   Training (r2, MAE): 0.748 14.304
+   ---   Testing (r2, MAE): 0.209 22.420
+   ---   Training and test data dimensions:
+(269, 341) (30, 341) (269, 1) (30, 1)
+   ---   Training and test data dimensions:
+I AM HEREEEEEEEEEEEE
+(269, 341) (30, 341) (269, 1) (30, 1)
+
+   ###   RandomForestRegressor:
+   ---   Training (r2, MAE): 0.750 14.151
+   ---   Testing (r2, MAE): 0.188 26.127
+   ---   Training and test data dimensions:
+(269, 341) (30, 341) (269, 1) (30, 1)
+   ---   Training and test data dimensions:
+I AM HEREEEEEEEEEEEE
+(269, 341) (30, 341) (269, 1) (30, 1)
+
+   ###   RandomForestRegressor:
+   ---   Training (r2, MAE): 0.742 14.380
+   ---   Testing (r2, MAE): 0.297 22.825
+   ---   Training and test data dimensions:
+(269, 341) (30, 341) (269, 1) (30, 1)
+   ---   Training and test data dimensions:
+I AM HEREEEEEEEEEEEE
+(269, 341) (30, 341) (269, 1) (30, 1)
+
+   ###   RandomForestRegressor:
+   ---   Training (r2, MAE): 0.737 14.094
+   ---   Testing (r2, MAE): 0.260 27.669
+   ---   Training and test data dimensions:
+(269, 341) (30, 341) (269, 1) (30, 1)
+   ---   Training and test data dimensions:
+I AM HEREEEEEEEEEEEE
+(269, 341) (30, 341) (269, 1) (30, 1)
+
+   ###   RandomForestRegressor:
+   ---   Training (r2, MAE): 0.748 14.442
+   ---   Testing (r2, MAE): 0.270 22.410
+   ---   Training and test data dimensions:
+(269, 341) (30, 341) (269, 1) (30, 1)
+   ---   Training and test data dimensions:
+I AM HEREEEEEEEEEEEE
+(269, 341) (30, 341) (269, 1) (30, 1)
+
+   ###   RandomForestRegressor:
+   ---   Training (r2, MAE): 0.732 15.064
+   ---   Testing (r2, MAE): 0.416 17.777
+   ---   Training and test data dimensions:
+(270, 341) (29, 341) (270, 1) (29, 1)
+   ---   Training and test data dimensions:
+I AM HEREEEEEEEEEEEE
+(270, 341) (29, 341) (270, 1) (29, 1)
+
+   ###   RandomForestRegressor:
+   ---   Training (r2, MAE): 0.755 14.269
+   ---   Testing (r2, MAE): -0.117 23.703
