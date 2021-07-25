@@ -1,4 +1,4 @@
-![MOF Synthesis Prediction](images/MOF_Synthesis_prediction.png)
+![MOF Synthesis Prediction](MOF_Synthesis_prediction.png)
 
 # Machine Learning Based MOF Synthesis Prediction
 
