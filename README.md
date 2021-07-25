@@ -3,9 +3,9 @@
 # Machine Learning Based MOF Synthesis Prediction
 
 # Paper
-**MOF Synthesis Prediction Enabled by Automatic Data Mining and Machine Learning**
-Yi Luo, Saientan Bag, Orysia Zaremba, Jacopo Andreo, Stefan Wuttke, Pascal Friederich, and Manuel Tsotsalas
-*Basque Center for Materials, Applications & Nanostructures*
+**MOF Synthesis Prediction Enabled by Automatic Data Mining and Machine Learning**  
+Yi Luo, Saientan Bag, Orysia Zaremba, Jacopo Andreo, Stefan Wuttke, Pascal Friederich, and Manuel Tsotsalas  
+*Basque Center for Materials, Applications & Nanostructures*  
 *Karlsruhe Institute of Technology*
 
 # Contact
