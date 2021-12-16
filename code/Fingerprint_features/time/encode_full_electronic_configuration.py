@@ -1,13 +1,15 @@
+#Import panda to deal with *.csv file
+
 import pandas as pd
 
-from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import r2_score
-from sklearn.decomposition import PCA
-
-
-df = pd.read_csv("edited_full.csv")
+###########
+df = pd.read_csv("edited_full.csv")  ### read the *csv file
 
 l=536
+
+##Here We just simply keep on reading the electronic occupancy of the different atomic 
+##orbital from the csv file. The metal oxidation state is also read.
+
 
 
 s1=[]
@@ -153,22 +155,6 @@ for i in range(0,l):
     c=[tem[i]]
 
     time.append(c)
-
-
-
-
-features_basic=['temperature','time']
-
-
-
-
-y_scaler_feat = StandardScaler()
-y_unscaled_feat=df[features_basic].values
-y_feat = y_scaler_feat.fit_transform(y_unscaled_feat)
-n_feat = len(features_basic)
-
-
-y_temp_time=y_feat
 
 
 
